@@ -34,7 +34,9 @@ main > div {
     align-items: center;
 }
 
-.subscribe,
+.subscribe{
+
+}
 .places-to-visit {
     width: 350px;
 }
