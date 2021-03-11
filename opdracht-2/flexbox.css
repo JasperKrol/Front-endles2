@@ -42,17 +42,15 @@ ul{
 
 }
 
-form{
-    display: flex;
-    flex-direction: column;
-    /* justify-content: space-evenly;*/
-}
-
-label{
+form {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
 }
+
+
+
 
 
 
